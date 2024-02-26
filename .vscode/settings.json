@@ -1,0 +1,12 @@
+{
+    "workbench.settings.useSplitJSON": true,
+
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": null,
+            "savePathReplacementPairs": null
+        }
+    ]
+}
