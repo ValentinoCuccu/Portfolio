@@ -1,0 +1,20 @@
+// main: main.scss
+
+* {
+    // GOOGLE FONT
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;    
+}
+
+.contatti {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 800px;
+}
+
+.contatti, .button-contact {
+    padding: 10px;
+}    
