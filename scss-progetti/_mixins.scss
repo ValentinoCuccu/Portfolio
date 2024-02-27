@@ -1,0 +1,17 @@
+// main: main.scss
+
+@mixin dark-container($border-radius: 0) {
+  background-color: #ffffff; // Cambia il colore di sfondo secondo le tue preferenze
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5); // Cambia il valore dell'ombra secondo le tue preferenze
+  border-radius: 50px; // Applica il border-radius specificato
+}
+
+@mixin dark-navbar($border-radius: 0) {
+  background-color: #9e9e9e; // Cambia il colore di sfondo secondo le tue preferenze
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5); // Cambia il valore dell'ombra secondo le tue preferenze
+  border-radius: 50px; // Applica il border-radius specificato
+}
+
+@mixin sfondo($background-color: #9e9e9e) {
+  background-color: #9e9e9e;
+}
