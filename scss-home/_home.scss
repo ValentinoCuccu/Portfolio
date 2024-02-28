@@ -13,7 +13,7 @@
 section {
     padding-top: 4vh;
     height: 96vh;
-    margin: 0 10rem;
+    margin: 0 0rem;
     box-sizing: border-box;
     min-height: fit-content;
 }
@@ -27,6 +27,7 @@ section {
     justify-content: center;
     gap: 5rem;
     height: 80vh;
+    background-color: #181818;
 }
 
 .section__pic-container {
@@ -43,6 +44,7 @@ section {
 .section__text {
     align-self: center;
     text-align: center;
+    color: #fff;
 }
 
 .section__text p {
@@ -51,6 +53,7 @@ section {
 
 .section__text__p1 {
     text-align: center;
+    border-bottom: 0px;
 }
 
 .section__text__p1 {
@@ -61,5 +64,7 @@ section {
 .title {
     font-size: 3rem;
     text-align: center;
+    padding-top: 0px !important;
+    padding-bottom: 29px;
 }
 
